@@ -2,15 +2,27 @@
 
 Any doubt and suggestion-: comment or mail   
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Refrence
+1.-TEXT DETECTION AND CHARACTER
+RECOGNITION USING FUZZY IMAGE PROCESSING, Mohanad Alata — Mohammad Al-Shabi
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2.-Font and Background Color Independent Text Binarization,
+T Kasar, J Kumar and A G Ramakrishnan
 
-```markdown
-Syntax highlighted code block
+3.-Text Localization, Enhancement and Binarization in Multimedia Documents
+Christian Wolf1 Jean-Michel Jolion1 Franc¸oise Chassaing2
 
+# Code 
+all jupyter notebook file are in code File
+### Report
+
+This folder contain the project proposal and the report files
+
+
+
+```Results
+results are in image files
 # Header 1
 ## Header 2
 ### Header 3
@@ -20,6 +32,7 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
