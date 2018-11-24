@@ -14,7 +14,7 @@ T Kasar, J Kumar and A G Ramakrishnan
 Christian Wolf1 Jean-Michel Jolion1 Franc¸oise Chassaing2
 
 # Code 
-all jupyter notebook file are in code File
+all jupyter notebook file are in folder Code 
 ### Report
 
 This folder contain the project proposal and the report files
