@@ -1,4 +1,4 @@
-## Welcome Groot-DIP Project
+## Welcome Groot (Digital Image Processing Course Project)
 
  
 
